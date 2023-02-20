@@ -1,0 +1,25 @@
+
+
+var precio_base = 2000;
+
+var hijos_recargo = 0.2;
+
+
+#var cotizacion
+recargo
+var edad_18 = 0.1; // 10%
+var edad_25 = 0.2; // 20%
+var edad_50 = 0.3; // 30%
+
+var casado_18 = 0.1; // 10%
+var casado_25 = 0.2; // 20%
+var casado_50 = 0.3; // 30%
+
+cotizacion = salario * 0.3
+recargo_propiedades = recargo* 0.35
+recargo_salario = recargo * 0.05
+recargo_pareja= recargo*0.3
+recargo_hijos= recargo*0.2
+total = precio_base+recargo
+
+

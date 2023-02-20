@@ -1,0 +1,25 @@
+ 1.
+
+ los asegurados deben ser mayor a 18 años de no ser asi no tendra seguro
+
+ 2.
+
+se tiene un plan base de Q2000.00 al cual se le aplican recargos extras
+  -dependiendo la edad
+  -si esta casado
+  -si tiene hijos
+  -si tiene propiedades
+  -dependiendo la edad de su esposa/o
+  
+  3. 
+
+  para el primer y 2do. punto se basan en los rangos de edades. dependiendo el rango de edad se les hara los siguientes recargos:
+    ->=18 años || <=24 años, el recargo sera del 10% sobre el precio base
+    ->=25 años || <=49 años, el recargo sera del 20% sobre el precio base
+    -<=50 años, el recargo sera del 30% sobre el precio base
+         Este recargo se apica individualmente para el asegurado y el conyuge
+
+
+  PUNTOS extras
+  agregar 2 cotizaciones mas: si tiene propiedades y cuantas & si tiene empleo y cuanto es su salario
+  cambiar el programa para que al finalizar la cotizacin al escribir la palabra "salir" se cierre el programa.
